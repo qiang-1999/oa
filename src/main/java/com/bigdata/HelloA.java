@@ -4,5 +4,6 @@ public class HelloA {
 	public static void main(String[] args) {
 		
 		System.out.println("¿Ó«øtmohello");
+		System.out.println("hhhh");
 	}
 }
