@@ -5,5 +5,7 @@ public class HelloA {
 		
 		System.out.println("¿Ó«øtmohello");
 		System.out.println("hhhh");
+		System.out.println("12313");
+		System.out.println("11111");
 	}
 }
